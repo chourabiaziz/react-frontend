@@ -131,6 +131,7 @@ const Base = ({ children, title }) => {
         }
 
         .btn {
+          text-decoration: none;
           display: flex;
           align-items: center;
           gap: 0.5rem;
